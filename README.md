@@ -5,3 +5,13 @@ Kendim için işe yarar linkleri burada kategorileştiriyorum
 # SQL
 
 * [SQL databaseler için kolay kontol paneli](https://github.com/ankane/blazer)
+
+
+# React Native
+
+* [Action Sheet](https://github.com/yfuks/react-native-action-sheet)
+
+
+# Deep Learning
+
+* [TR Kaynaklar](https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari)
