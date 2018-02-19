@@ -5,7 +5,7 @@ Kendim için işe yarar linkleri burada kategorileştiriyorum
 # SQL
 
 * [SQL databaseler için kolay kontol paneli](https://github.com/ankane/blazer)
-
+* An SQL-friendly ORM for Node.js https://github.com/Vincit/objection.js
 
 # React Native
 
@@ -29,3 +29,8 @@ Kendim için işe yarar linkleri burada kategorileştiriyorum
 # JS Library
 
 *[Maps Lib Turf JS](http://turfjs.org/)
+
+Öğrenilecek ve Deneme Yapılacak Repolar
+
+* https://github.com/openfaas/faas
+
