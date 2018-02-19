@@ -18,6 +18,10 @@ Kendim için işe yarar linkleri burada kategorileştiriyorum
 * [Ant](https://ant.design/components/date-picker/)
 * Chart UI KIT https://github.com/plouc/nivo
 
+# Vue JS
+
+* Static Web Page Vue https://github.com/ream/ream
+
 # Deep Learning
 
 * [TR Kaynaklar](https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari)
